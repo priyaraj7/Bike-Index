@@ -7,6 +7,7 @@
 ## Description:
 
 This project is built using npm and Bike-index url.
+![Screenshot](https://github.com/priyaraj7/Bike-Index/raw/master/img/Screenshot.png)
 
 ## Setup/Installation Requirements
 
